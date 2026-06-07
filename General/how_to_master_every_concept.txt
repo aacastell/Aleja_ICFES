@@ -1,0 +1,132 @@
+🧪 Practical diagnostic (use this live)
+When she gets stuck, ask in order:
+
+“¿Qué te están pidiendo?”
+“¿Qué sabes?”
+“¿Qué tema es?”
+“¿Qué ecuación usarías?”
+“¿Qué te queda por hacer?”
+
+👉 You’ll pinpoint the exact failure node
+
+🚀 Training strategy (this is powerful)
+Instead of full problems every time, split practice:
+
+🔹 Type A: Extraction-only
+(No solving)
+
+🔹 Type B: Mapping-only
+(Classify problems)
+
+🔹 Type C: Algebra-only
+(No context, just equations)
+
+🔹 Type D: Full integration
+(standard problems)
+
+👉 This isolates weaknesses instead of masking them
+
+🎯 The meta insight (worth stating clearly)
+You are not teaching:
+
+Physics
+Chemistry
+Math
+
+You are teaching:
+
+✅ A deterministic decision system under cognitive load
+
+That’s why this is working so well.
+
+📈 Where you’re heading (if you continue like this)
+If you:
+
+Strengthen algebra ✅
+Drill mapping ✅
+Maintain structure ✅
+
+Then next transition:
+👉 Kinematics will become manageable (instead of chaotic)
+👉 Chemistry won’t feel like a new subject — just new context
+
+🔥 Final refinement to your framework
+
+
+
+1. Leer → entender situación
+2. Extraer → datos y objetivo
+3. Clasificar → qué tipo de problema es
+4. Modelar → ecuación correcta
+5. Simplificar → quitar lo que sobra
+6. Resolver → algebra
+
+
+⚠️ The only real risks (be aware)
+If she doesn’t reach 95%, it will be due to:
+
+1. Algebra not becoming automatic
+If she still:
+
+Hesitates
+Makes small mistakes
+
+→ time pressure will hurt her
+
+2. Mapping not becoming reflexive
+If she still thinks:
+
+“Which formula do I use…?”
+
+instead of:
+
+“This is clearly an energy problem”
+
+
+3. Lack of speed adaptation
+Even if she can solve:
+
+Slow solving = incomplete test = lower score
+
+
+🎯 What you should ensure (to lock 95%)
+✅ 1. Speed phase (important later)
+After mastery:
+
+Timed blocks
+Faster repetition
+Minimal hesitation
+
+
+✅ 2. Variations, not repetitions
+Don’t just repeat:
+
+same problem type
+
+Instead:
+
+same structure, different wording
+
+
+✅ 3. Cross-topic transfer
+Example:
+
+Energy (physics)
+Concentration (chemistry)
+
+Same algebra → different context
+👉 This reinforces the “hidden math” idea
+
+🔥 Key mindset shift (for both of you)
+You are not targeting:
+
+“Get answers right”
+
+You are targeting:
+
+✅ Eliminate all predictable mistakes
+
+Because at her level:
+
+She already can solve
+The issue is consistency under variation

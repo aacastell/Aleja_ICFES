@@ -1,0 +1,138 @@
+
+📘 Sistemas de Ecuaciones — Teoría + Entrenamiento Progresivo
+Objetivo: convertir los sistemas en un proceso mecánico de eliminación y sustitución.
+Principio central:
+👉 dos ecuaciones = dos restricciones → una única solución
+
+
+🧠 1. ¿Qué es un sistema de ecuaciones?
+Es un conjunto de ecuaciones con las mismas variables que se resuelven simultáneamente.
+Ejemplo:
+x + y = 10 x - y = 2
+
+
+⚖️ 2. Idea clave
+Queremos encontrar valores de x y y que hagan verdaderas ambas ecuaciones al mismo tiempo.
+
+
+⚙️ 3. Métodos principales
+Método 1 — Sustitución
+
+Despejar una variable en una ecuación
+Reemplazar en la otra
+Resolver ecuación lineal
+Encontrar la otra variable
+
+
+Método 2 — Eliminación
+
+Alinear ecuaciones
+Sumar/restar para eliminar una variable
+Resolver
+
+
+✅ 4. Ejemplos resueltos
+Ejemplo 1 (sustitución)
+x + y = 10 x - y = 2
+Despejar: x = 10 - y
+Sustituir: 10 - y - y = 2
+10 - 2y = 2
+Restar 10: -2y = -8
+y = 4
+Sustituir: x = 10 - 4 = 6
+
+
+Ejemplo 2 (eliminación)
+x + y = 10 x - y = 2
+Sumar ambas: 2x = 12
+x = 6
+y = 4
+
+
+Ejemplo 3 (coeficientes)
+2x + y = 7 x + y = 5
+Restar ecuaciones: (2x + y) - (x + y) = 7 - 5
+x = 2
+Sustituir: 2 + y = 5 → y = 3
+
+
+Ejemplo 4 (contexto)
+x + y = 10 y = 2x
+Sustituir: x + 2x = 10
+3x = 10
+x ≈ 3.33
+y ≈ 6.66
+
+
+⚠️ 5. Errores comunes
+❌ despejar mal ❌ errores de signos ❌ olvidar sustituir correctamente
+✅ regla:
+"reduce el sistema a UNA ecuación"
+
+
+⚡ 6. Mini-check
+
+¿reduje a una variable?
+¿sustituí correctamente?
+¿verifiqué ambas ecuaciones?
+
+
+🧩 7. Banco de problemas (30 ejercicios)
+🟢 Nivel 1 — Sistemas simples (1–10)
+
+x + y = 6, x - y = 2
+x + y = 8, x - y = 4
+x + y = 10, x - y = 6
+x + y = 12, x - y = 8
+x + y = 14, x - y = 10
+x + y = 16, x - y = 12
+x + y = 18, x - y = 14
+x + y = 20, x - y = 16
+x + y = 9, x - y = 1
+x + y = 15, x - y = 5
+
+
+🟡 Nivel 2 — Sustitución básica (11–20)
+
+x + y = 10, y = 2x
+x + y = 12, y = 3x
+x + y = 14, y = 2x
+x + y = 20, y = 4x
+x + y = 15, y = x + 3
+x + y = 18, y = x + 6
+x + y = 9, y = x - 1
+x + y = 11, y = x - 3
+x + y = 13, y = 2x + 1
+x + y = 17, y = 3x + 2
+
+
+🟠 Nivel 3 — Coeficientes (21–25)
+
+2x + y = 7, x + y = 5
+3x + y = 10, x + y = 6
+2x + y = 8, x + y = 3
+4x + y = 9, x + y = 2
+5x + y = 11, x + y = 6
+
+
+🔴 Nivel 4 — Sistemas más generales (26–30)
+
+2x + 3y = 12, x + y = 5
+3x + 2y = 13, x + y = 6
+4x + y = 11, 2x + y = 7
+5x + 2y = 16, x + 2y = 10
+3x + y = 10, 2x + y = 7
+
+
+🎯 Objetivo final
+El estudiante debe:
+✅ reducir a una ecuación rápidamente ✅ elegir método sin dudar ✅ resolver sin errores ✅ verificar en ambas ecuaciones
+
+
+💥 Resultado esperado
+Cuando esto se domina:
+👉 los sistemas se vuelven ecuaciones simples 👉 los problemas de realidad (ICFES) se vuelven mecánicos
+
+
+Siguiente paso:
+👉 problemas tipo ICFES con modelación completa

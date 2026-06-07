@@ -1,0 +1,127 @@
+
+📘 Distribución y Paréntesis — Teoría + Entrenamiento Progresivo
+Objetivo: que el estudiante convierta la distribución en un reflejo automático.
+Principio central:
+👉 todo lo que multiplica afuera, multiplica a cada término adentro
+
+
+🧠 1. ¿Qué es la distribución?
+Es expandir un producto entre un número y una suma/resta.
+a(b + c) = ab + ac
+a(b - c) = ab - ac
+
+
+⚙️ 2. Regla operativa
+
+Identificar el número (o expresión) afuera
+Multiplicar por cada término del paréntesis
+Respetar signos
+
+
+✅ 3. Ejemplos resueltos
+Ejemplo 1 (positivo)
+2(x + 3)
+= 2·x + 2·3 = 2x + 6
+
+
+Ejemplo 2 (negativo)
+3(x - 4)
+= 3x - 12
+
+
+Ejemplo 3 (signo negativo afuera)
+-2(x + 5)
+= -2x - 10
+⚠️ El signo afecta todo el paréntesis
+
+
+Ejemplo 4 (dos términos con variable)
+4(x + y)
+= 4x + 4y
+
+
+Ejemplo 5 (con ecuación)
+2(x + 3) = 14
+Distribuir: 2x + 6 = 14
+Resolver con balance: 2x = 8 → x = 4
+
+
+Ejemplo 6 (en ambos lados)
+3(x - 2) = 2x + 4
+Distribuir: 3x - 6 = 2x + 4
+Restar 2x en ambos lados: x - 6 = 4
+Sumar 6: x = 10
+
+
+⚠️ 4. Errores comunes
+❌ No multiplicar a todos los términos ❌ Cambiar mal los signos ❌ Olvidar el signo negativo afuera
+✅ Regla anti-error:
+"multiplico TODO lo de adentro"
+
+
+⚡ 5. Mini-check mental
+
+¿Multipliqué a cada término?
+¿Respeté signos?
+¿puedo simplificar?
+
+
+🧩 6. Banco de problemas (30 ejercicios)
+🟢 Nivel 1 — Distribución básica (1–10)
+
+2(x + 3)
+3(x + 4)
+4(x + 5)
+5(x + 1)
+2(x - 3)
+3(x - 2)
+4(x - 1)
+6(x + 2)
+7(x - 3)
+8(x + 1)
+
+
+🟡 Nivel 2 — Con negativos (11–20)
+
+-2(x + 3)
+-3(x + 4)
+-4(x - 2)
+-5(x + 1)
+-6(x - 3)
+-7(x + 2)
+-8(x - 1)
+-2(2x + 3)
+-3(3x - 2)
+-4(2x + 5)
+
+
+🟠 Nivel 3 — Dos términos dentro (21–25)
+
+2(3x + 4)
+3(2x - 5)
+4(5x + 1)
+5(2x - 3)
+6(3x + 2)
+
+
+🔴 Nivel 4 — Ecuaciones con distribución (26–30)
+
+2(x + 3) = 14
+3(x - 2) = 15
+4(x + 1) = 2x + 10
+5(x - 3) = 2x + 9
+2(x + 4) + 3 = 15
+
+
+🎯 Objetivo final
+El estudiante debe:
+✅ distribuir sin pensar ✅ no cometer errores de signo ✅ integrar con ecuaciones ✅ resolver en segundos
+
+
+💥 Resultado esperado
+Cuando esto se domina:
+👉 los paréntesis dejan de ser dificultad 👉 las ecuaciones complejas se vuelven lineales simples
+
+
+Siguiente paso:
+👉 combinación de lineales + distribución (fluidez total)
