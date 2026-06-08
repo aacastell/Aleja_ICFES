@@ -2,20 +2,29 @@
 📘 Ecuaciones Lineales — Módulo Mejorado (Enfoque Híbrido)
 
 Objetivo: que el estudiante vea formas distintas como la misma estructura, y pueda resolver directamente o reorganizar solo cuando sea necesario.
+
 Principio central:
 👉 una ecuación es un balance: aplica la misma operación en ambos lados
 
 
 🧠 1. Estructura canónica
+
 Toda ecuación lineal se puede reconocer como:
+```
 ax + b = c
+```
+
 Pero puede aparecer en muchas formas.
+
 👉 Habilidad crítica: reconocer estructura, no memorizar forma.
 
 
 ⚙️ 2. Estrategia híbrida (clave del módulo)
+
 NO siempre necesitas reorganizar.
+
 Regla de decisión:
+
 ✅ Si la ecuación se ve familiar → resolver directamente
 ⚠️ Si se ve extraña o confusa → reescribir primero
 
@@ -67,6 +76,7 @@ Dividir: x = -4
 
 
 🔁 4. Normalización como herramienta (NO obligación)
+
 Puedes reescribir si lo necesitas:
 ```
 3 - 2x = 11 → -2x + 3 = 11
@@ -76,6 +86,7 @@ Puedes reescribir si lo necesitas:
 
 
 ❗ 5. Regla clave de paréntesis
+
 Restar paréntesis = multiplicar por -1
 ```
 x - (x + 3) = x - x - 3
@@ -83,24 +94,28 @@ x - (x - 3) = x - x + 3
 ```
 
 ⚠️ 6. Errores comunes
-❌ forzar pasos innecesarios ❌ errores de signo ❌ no reconocer estructura
+
+❌ forzar pasos innecesarios 
+❌ errores de signo 
+❌ no reconocer estructura
 ✅ solución:
 
-resolver directo cuando sea claro
-reorganizar solo si ayuda
+- resolver directo cuando sea claro
+- reorganizar solo si ayuda
 
 
 ⚡ 7. Mini-check
 
-¿puedo resolver directamente?
-¿esto se ve raro?
-¿necesito reorganizar?
+- ¿puedo resolver directamente?
+- ¿esto se ve raro?
+- ¿necesito reorganizar?
 
 
 🧩 8. Entrenamiento por bloques
 
 
 🟢 Bloque A — Ejecución directa (5)
+
 Resolver directamente:
 
 ```
@@ -112,6 +127,7 @@ x - 3 = 8
 ```
 
 🟡 Bloque B — Variación de forma (10)
+
 Resolver TODOS (sin prejuicio de forma):
 
 
@@ -132,6 +148,7 @@ Resolver TODOS (sin prejuicio de forma):
 👉 Meta: reconocer que son el mismo tipo
 
 🧠 Bloque B2 — Equivalencia (pensamiento estructural)
+
 ¿Tienen la misma solución?
 
 ```
@@ -145,10 +162,11 @@ Resolver TODOS (sin prejuicio de forma):
 
 
 🟠 Bloque C — Decisión: directo o reescribir (8)
+
 Para cada uno:
 
-decidir si resolver directo o reescribir
-resolver
+- decidir si resolver directo o reescribir
+- resolver
 
 ```
 3 - 2x = 11
@@ -162,6 +180,7 @@ resolver
 ```
 
 🔴 Bloque D — Paréntesis (8)
+
 Aquí SIEMPRE expandir:
 
 ```
@@ -176,13 +195,14 @@ x - (x + 3)
 ```
 
 🔴 Bloque D2 — Casos límite (estructura real)
+
 Resolver y clasificar:
 
 👉 identificar:
 
-solución única
-sin solución
-infinitas soluciones
+- solución única
+- sin solución
+- infinitas soluciones
 
 ```
 x + x = 10
@@ -198,9 +218,7 @@ x = x + 3
 
 ```
 Un número más 3 es 11 
-    
     x + 3 = 11
-
 3 menos que un número es 10 
     x - 3 = 10
 Un número es 3 menos que 10
@@ -213,7 +231,6 @@ Un numero dividido por 2 mas 3 es 6
     x/2 + 3 = 6
 ```
 
- Perfect — aquí tienes **5 ejemplos adicionales**, pero diseñados para lo que realmente necesitas:  
 👉 **variación lingüística + ambigüedad ligera + trampas reales**
 
 ***
@@ -310,18 +327,21 @@ Después de traducir, haz SIEMPRE esto:
 
 🎯 Objetivo final
 El estudiante debe:
-✅ resolver directo cuando sea posible 
-✅ reorganizar solo cuando aporte claridad 
-✅ reconocer equivalencias 
-✅ manejar variaciones sin esfuerzo 
-✅ resolver en <10 segundos
+- ✅ resolver directo cuando sea posible 
+- ✅ reorganizar solo cuando aporte claridad 
+- ✅ reconocer equivalencias 
+- ✅ manejar variaciones sin esfuerzo 
+- ✅ resolver en <10 segundos
 
 
 💥 Resultado esperado
-👉 diferentes formas dejan de importar 👉 la ecuación se vuelve una estructura única 👉 base sólida para todo el álgebra posterior
+- 👉 diferentes formas dejan de importar 
+- 👉 la ecuación se vuelve una estructura única 
+- 👉 base sólida para todo el álgebra posterior
 
 
 🧠 Regla final de entrenamiento
-Antes de resolver, preguntarse:
-👉 "¿lo hago directo o lo ordeno primero?"
-Y ejecutar sin dudar.
+
+- Antes de resolver, preguntarse:
+    * 👉 "¿lo hago directo o lo ordeno primero?"
+- Y ejecutar sin dudar.
