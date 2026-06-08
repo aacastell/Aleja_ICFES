@@ -1,113 +1,160 @@
-Aquí tienes un resumen claro y enfocado estilo ICFES del tema **“Medios de Comunicación”** en Sociales:
+Aquí tienes un resumen claro y útil sobre **Sistemas Políticos** enfocado al ICFES (Saber 11), en la parte de **Ciencias Sociales**:
 
 ***
 
-# 📺 ICFES Sociales: Medios de Comunicación
+# 🏛️ Sistemas Políticos (ICFES Sociales)
 
-## 1. ¿Qué son?
+## 1. ¿Qué es un sistema político?
 
-Son **canales o herramientas** que permiten transmitir información entre emisor y receptor.
+Es la forma en que un Estado organiza el poder, toma decisiones y gobierna a la sociedad. Incluye:
 
-Ejemplos:
-
-* Televisión
-* Radio
-* Prensa escrita (periódicos, revistas)
-* Internet y redes sociales
+* Instituciones (gobierno, congreso, cortes)
+* Normas (constitución, leyes)
+* Actores (ciudadanos, partidos políticos)
 
 ***
 
-## 2. Tipos de medios
+## 2. Tipos de sistemas políticos
 
-### 📰 Tradicionales
+### 🔵 Democracia
 
-* Prensa
-* Radio
-* Televisión  
-  Características:
-* Comunicación **unidireccional** (del emisor al público)
-* Control editorial más claro
+Sistema en el que el poder pertenece al pueblo.
 
-### 🌐 Digitales
+**Características:**
 
-* Redes sociales (Facebook, X, Instagram)
-* Blogs, sitios web  
-  Características:
-* Comunicación **bidireccional**
-* Mayor rapidez
-* Participación del usuario
+* Elecciones libres y periódicas
+* Participación ciudadana
+* División de poderes (ejecutivo, legislativo, judicial)
+* Respeto a derechos humanos
 
-***
+**Ejemplo:** Colombia
 
-## 3. Funciones de los medios
+✔️ Puede ser:
 
-* **Informar** → noticias, reportajes
-* **Educar** → documentales, programas culturales
-* **Entretener** → series, música
-* **Formar opinión pública** → influyen en lo que la gente piensa
+* **Directa:** el pueblo decide directamente (ej: referendos)
+* **Representativa:** el pueblo elige representantes
 
 ***
 
-## 4. Opinión pública
+### 🔴 Autoritarismo
 
-Los medios influyen en:
+El poder está en manos de una sola persona o grupo, con poca participación ciudadana.
 
-* Percepción de la realidad
-* Decisiones políticas (elecciones)
-* Actitudes sociales
+**Características:**
 
-📌 Clave ICFES:  
-Pueden **orientar** o **manipular** la información.
+* No hay elecciones libres
+* Restricción de libertades
+* Control de medios
 
-***
-
-## 5. Libertad de expresión
-
-Es un derecho fundamental:
-
-* Permite comunicar ideas libremente
-* Está protegido por la Constitución
-
-⚠️ Pero tiene límites:
-
-* No debe vulnerar derechos de otros
-* No debe difundir información falsa o peligrosa
+**Ejemplo:** dictaduras militares
 
 ***
 
-## 6. Problemas y riesgos
+### ⚫ Totalitarismo
 
-* **Desinformación (fake news)**
-* **Manipulación mediática**
-* **Concentración de medios** (pocos dueños controlan muchos medios)
-* **Sesgo informativo** (información parcializada)
+Es una forma extrema de autoritarismo donde el Estado controla casi todos los aspectos de la vida.
 
-***
+**Características:**
 
-## 7. Papel del ciudadano (clave en ICFES)
+* Partido único
+* Propaganda ideológica
+* Control total (economía, cultura, sociedad)
 
-El ciudadano debe:
-
-* Analizar críticamente la información
-* Verificar fuentes
-* No compartir noticias falsas
-* Diferenciar opinión de información
+**Ejemplo histórico:** Alemania nazi
 
 ***
 
-## 8. Conceptos clave para preguntas
+### 🟢 Monarquía
 
-* **Emisor**: quien envía el mensaje
-* **Receptor**: quien lo recibe
-* **Mensaje**: contenido
-* **Canal**: medio utilizado
-* **Código**: idioma o sistema de signos
+El poder lo ejerce un rey o reina.
+
+**Tipos:**
+
+* **Absoluta:** el rey tiene todo el poder
+* **Constitucional:** el rey comparte poder con instituciones democráticas
+
+**Ejemplo:**
+
+* Absoluta → Arabia Saudita
+* Constitucional → Reino Unido
 
 ***
 
-## ✔️ Ejemplo tipo ICFES
+## 3. Formas de gobierno (clave para el ICFES)
 
-👉 *Si un medio presenta solo una versión de un hecho político, ¿qué problema hay?*  
-✅ Respuesta: **Sesgo informativo**, afecta la formación de opinión crítica.
+### 🇺🇸 Presidencialismo
+
+* El presidente es jefe de Estado y de gobierno
+* Elegido por voto popular
+* Poder separado del Congreso
+
+**Ejemplo:** Colombia
 
 ***
+
+### 🇬🇧 Parlamentarismo
+
+* El jefe de gobierno es el primer ministro
+* Surge del parlamento
+* El jefe de Estado puede ser simbólico (rey o presidente)
+
+***
+
+## 4. Conceptos importantes
+
+### ⚖️ División de poderes
+
+Evita abusos de poder:
+
+* Ejecutivo → gobierna
+* Legislativo → hace leyes
+* Judicial → aplica justicia
+
+***
+
+### 🗳️ Participación política
+
+* Votar
+* Protestar
+* Participar en partidos
+
+***
+
+### 📜 Estado de derecho
+
+Todos (incluidos gobernantes) están sometidos a la ley.
+
+***
+
+## 5. Tipos de preguntas del ICFES
+
+El examen suele evaluar:
+
+✅ Identificación de sistemas políticos  
+✅ Diferencias entre democracia y autoritarismo  
+✅ Análisis de situaciones (casos)
+
+***
+
+### 📌 Ejemplo tipo ICFES:
+
+**Pregunta:**  
+Un país donde no hay elecciones libres y los medios están controlados por el gobierno se caracteriza por:
+
+A. Democracia  
+B. Monarquía constitucional  
+C. Autoritarismo  
+D. Federalismo
+
+✅ **Respuesta correcta:** C. Autoritarismo
+
+***
+
+## 🎯 Tips para el ICFES
+
+* Asocia:
+  * Democracia → participación + derechos
+  * Autoritarismo → restricción + poder central
+* Lee bien los contextos (a veces no lo dicen directamente)
+* Identifica si hay **división de poderes o concentración**
+
