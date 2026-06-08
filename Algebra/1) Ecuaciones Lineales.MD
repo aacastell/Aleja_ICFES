@@ -2,10 +2,10 @@
 📘 Ecuaciones Lineales — Módulo Mejorado (Enfoque Híbrido)
 
 Objetivo: 
-    que el estudiante vea formas distintas como la misma estructura, y pueda resolver directamente o reorganizar solo cuando sea necesario.
+    * que el estudiante vea formas distintas como la misma estructura, y pueda resolver directamente o reorganizar solo cuando sea necesario.
 
 Principio central:
-    👉 una ecuación es un balance: aplica la misma operación en ambos lados
+    * 👉 una ecuación es un balance: aplica la misma operación en ambos lados
 
 
 🧠 1. Estructura canónica
