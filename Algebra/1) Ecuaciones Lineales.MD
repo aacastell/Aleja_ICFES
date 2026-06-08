@@ -35,26 +35,32 @@ resolver directamente → x = 4
 
 
 Caso ligeramente distinto (pero resolvible directo)
+```
 3 + 2x = 11
 -3       -3
 0 + 2x = 8
 x = 4
-
+```
 o 
 
+```
 3 + 2x = 11
 2x + 3 = 11
    - 3   - 3
 2x + 0 = 8 
 2x = 8
 x = 4
+```
 
 Caso ligeramente distinto (pero resolvible directo)
+
+```
 3 - 2x = 11
 -3       -3
 0 - 2x = 8
 -2x = 8
 x = -4
+```
 Restar 3 en ambos lados: -2x = 8
 Dividir: x = -4
 👉 no es obligatorio reordenar
@@ -62,16 +68,19 @@ Dividir: x = -4
 
 🔁 4. Normalización como herramienta (NO obligación)
 Puedes reescribir si lo necesitas:
+```
 3 - 2x = 11 → -2x + 3 = 11
 11 = 3 + 2x → 2x + 3 = 11
+```
 👉 úsalo como herramienta, no como paso obligatorio
 
 
 ❗ 5. Regla clave de paréntesis
 Restar paréntesis = multiplicar por -1
+```
 x - (x + 3) = x - x - 3
 x - (x - 3) = x - x + 3
-
+```
 
 ⚠️ 6. Errores comunes
 ❌ forzar pasos innecesarios ❌ errores de signo ❌ no reconocer estructura
@@ -94,16 +103,20 @@ reorganizar solo si ayuda
 🟢 Bloque A — Ejecución directa (5)
 Resolver directamente:
 
+```
 x + 5 = 9
 x - 3 = 8
 2x = 10
 3x + 5 = 11
 4x - 7 = 9
-
+```
 
 🟡 Bloque B — Variación de forma (10)
 Resolver TODOS (sin prejuicio de forma):
 
+
+
+```
 2x + 3 = 11
 3 + 2x = 11
 -2x + 3 = 11
@@ -114,17 +127,20 @@ Resolver TODOS (sin prejuicio de forma):
 5 = -3 + 2x
 -2x - 3 = -11
 -11 = -2x - 3
-👉 Meta: reconocer que son el mismo tipo
+```
 
+👉 Meta: reconocer que son el mismo tipo
 
 🧠 Bloque B2 — Equivalencia (pensamiento estructural)
 ¿Tienen la misma solución?
 
+```
 2x + 3 = 11
 3 + 2x = 11
 11 = 2x + 3
 
 3 - 2x = 11
+```
 → explicar por qué
 
 
@@ -133,8 +149,9 @@ Para cada uno:
 
 decidir si resolver directo o reescribir
 resolver
-3 - 2x = 11
 
+```
+3 - 2x = 11
 11 = 2x + 3
 5 = x + 2
 -7 = 3x - 4
@@ -142,11 +159,12 @@ resolver
 9 = 4 + x
 -3 = -2x + 1
 6 = 2x - 2
-
+```
 
 🔴 Bloque D — Paréntesis (8)
 Aquí SIEMPRE expandir:
 
+```
 x - (x - 2)
 x - (x + 3)
 2(x + 3) = 10
@@ -155,28 +173,34 @@ x - (x + 3)
 -(x - 5) = 3
 2(x - 1) + 1 = 7
 3(x + 2) - 2 = 10
-
+```
 
 🔴 Bloque D2 — Casos límite (estructura real)
 Resolver y clasificar:
 
-x + x = 10
-2x + x = 9
-x + 2 = x + 5
-2x + 3 = 2x + 7
-x = x + 3
-3x = 3x
 👉 identificar:
 
 solución única
 sin solución
 infinitas soluciones
 
+```
+x + x = 10
+2x + x = 9
+x + 2 = x + 5
+2x + 3 = 2x + 7
+x = x + 3
+3x = 3x
+```
+
 
 ⚡ Bloque E — Traducción (variación lingüística)
 
+```
 Un número más 3 es 11 
+    
     x + 3 = 11
+
 3 menos que un número es 10 
     x - 3 = 10
 Un número es 3 menos que 10
@@ -187,6 +211,7 @@ El doble de un número más 1 es 9
     1 + 2x = 9
 Un numero dividido por 2 mas 3 es 6
     x/2 + 3 = 6
+```
 
  Perfect — aquí tienes **5 ejemplos adicionales**, pero diseñados para lo que realmente necesitas:  
 👉 **variación lingüística + ambigüedad ligera + trampas reales**
