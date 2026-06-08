@@ -23,11 +23,13 @@ Regla de decisión:
 ✅ 3. Ejemplos (decisión en acción)
 
 Caso directo
+'''
 2x + 3 = 11
    - 3   - 3
 2x + 0 = 8 
 2x = 8
 x = 4
+'''
 resolver directamente → x = 4
 
 
