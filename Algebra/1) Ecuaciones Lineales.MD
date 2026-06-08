@@ -2,10 +2,10 @@
 📘 Ecuaciones Lineales — Módulo Mejorado (Enfoque Híbrido)
 
 Objetivo: 
-    * que el estudiante vea formas distintas como la misma estructura, y pueda resolver directamente o reorganizar solo cuando sea necesario.
+    - que el estudiante vea formas distintas como la misma estructura, y pueda resolver directamente o reorganizar solo cuando sea necesario.
 
 Principio central:
-    * 👉 una ecuación es un balance: aplica la misma operación en ambos lados
+    - 👉 una ecuación es un balance: aplica la misma operación en ambos lados
 
 
 🧠 1. Estructura canónica
@@ -17,7 +17,8 @@ ax + b = c
 
 Pero puede aparecer en muchas formas.
 
-👉 Habilidad crítica: reconocer estructura, no memorizar forma.
+👉 Habilidad crítica: 
+    - reconocer estructura, no memorizar forma.
 
 
 ⚙️ 2. Estrategia híbrida (clave del módulo)
@@ -26,8 +27,8 @@ NO siempre necesitas reorganizar.
 
 Regla de decisión:
 
-✅ Si la ecuación se ve familiar → resolver directamente
-⚠️ Si se ve extraña o confusa → reescribir primero
+- ✅ Si la ecuación se ve familiar → resolver directamente
+- ⚠️ Si se ve extraña o confusa → reescribir primero
 
 
 ✅ 3. Ejemplos (decisión en acción)
@@ -71,8 +72,11 @@ Caso ligeramente distinto (pero resolvible directo)
 -2x = 8
 x = -4
 ```
-Restar 3 en ambos lados: -2x = 8
-Dividir: x = -4
+- Restar 3 en ambos lados: 
+-2x = 8
+
+- Dividir: x = -4
+
 👉 no es obligatorio reordenar
 
 
@@ -96,13 +100,13 @@ x - (x - 3) = x - x + 3
 
 ⚠️ 6. Errores comunes
 
-❌ forzar pasos innecesarios 
-❌ errores de signo 
-❌ no reconocer estructura
-✅ solución:
+- ❌ forzar pasos innecesarios 
+- ❌ errores de signo 
+- ❌ no reconocer estructura
+- ✅ solución:
 
-- resolver directo cuando sea claro
-- reorganizar solo si ayuda
+    - resolver directo cuando sea claro
+    - reorganizar solo si ayuda
 
 
 ⚡ 7. Mini-check
