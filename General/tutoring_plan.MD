@@ -212,17 +212,3 @@ Tienes algo clave:
 Solo faltaba:
 👉 organizarlo con lógica cognitiva
 
-***
-
-# 🔥 SIGUIENTE NIVEL (te lo recomiendo mucho)
-
-Ahora que esto quedó sólido, lo siguiente que más impacto tiene es:
-
-## 🔥 1. Banco de preguntas diario listo (por bloques)
-
-## 🔥 2. Simulacro personalizado semanal
-
-## 🔥 3. Rutina exacta por día (tipo horario)
-
-***
-
