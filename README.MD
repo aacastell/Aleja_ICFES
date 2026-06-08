@@ -1,0 +1,1 @@
+This is a Repo built as a knowledge base and custom planning tool for a student preperaing for an exam. If your name is not Maria Alejandra, there is nothing of use to you here. Please guide yourself to another of the amazing repos fond herein. 
