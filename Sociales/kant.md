@@ -1,15 +1,3 @@
-Sí, ahora entiendo mejor el hilo que estabas construyendo.
-
-No estabas usando a Kant para hablar de un gobierno mundial.
-
-Estabas intentando utilizar una idea kantiana más general:
-
-> Cuando desaparecen los límites, desafíos o contrapesos externos, el poder tiende a volverse hacia adentro y puede degenerar en formas crecientes de dominación.
-
-Hay que decir algo importante desde el inicio: **Kant no formuló exactamente la teoría que vas a desarrollar a continuación.** Lo que sí sostuvo fue que una concentración política mundial sin contrapesos podía derivar en despotismo, razón por la cual prefirió una federación de estados libres y no un Estado mundial único. [\[congress.gov\]](https://www.congress.gov/crs_external_products/IF/PDF/IF10715/IF10715.19.pdf), [\[congress.gov\]](https://www.congress.gov/crs_external_products/IF/PDF/IF10715/IF10715.35.pdf)
-
-Sin embargo, esa intuición puede extenderse al terreno económico e institucional.
-
 ***
 
 # Kant, el desafío externo y la tentación de la dominación interna
